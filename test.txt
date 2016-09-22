@@ -1,1 +1,16 @@
-Buy
+Asparagus
+Broccoli
+Carrots
+Cauliflower
+Celery
+Corn
+Cucumbers
+Lettuce
+Mushrooms
+Onions
+Peppers
+Potatoes
+Spinach
+Squash
+Zucchini
+Tomatoes
