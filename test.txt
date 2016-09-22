@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Asparagus
 Broccoli
 Carrots
@@ -14,3 +15,9 @@ Spinach
 Squash
 Zucchini
 Tomatoes
+=======
+Buy
+
+Edit: MC
+Edit: Chen
+>>>>>>> origin/master
