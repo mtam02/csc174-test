@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Asparagus
 Broccoli
 Carrots
@@ -20,4 +21,11 @@ Buy
 
 Edit: MC
 Edit: Chen
+>>>>>>> origin/master
+=======
+Vegetables
+
+Edit: MC
+Edit: Chen
+Edit: Tomato
 >>>>>>> origin/master
